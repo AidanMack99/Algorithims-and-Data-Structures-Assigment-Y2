@@ -1,0 +1,10 @@
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\bin\Debug\CompaniesAssignment.exe.config
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\bin\Debug\CompaniesAssignment.exe
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\bin\Debug\CompaniesAssignment.pdb
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\obj\Debug\CompaniesAssignment.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\obj\Debug\CompaniesAssignment.Form1.resources
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\obj\Debug\CompaniesAssignment.Properties.Resources.resources
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\obj\Debug\CompaniesAssignment.csproj.GenerateResource.cache
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\obj\Debug\CompaniesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\obj\Debug\CompaniesAssignment.exe
+C:\Users\aidan\source\repos\CompaniesAssignment\CompaniesAssignment\obj\Debug\CompaniesAssignment.pdb
